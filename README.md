@@ -65,6 +65,6 @@ LLM_MODEL_ID=llama3
 EMBEDDING_MODEL_ID=ollama/llama3
 
 ### в  терминале Windows PowerShell
-cd "C:\Users\irina\Downloads\Telegram Desktop\StudyBuddy_Assistant\StudyBuddy_Assistant"
+cd до папки
 ollama run llama3.1
 >>> Send a message (/? for help)
