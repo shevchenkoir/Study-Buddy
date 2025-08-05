@@ -66,5 +66,7 @@ EMBEDDING_MODEL_ID=ollama/llama3
 
 ### в  терминале Windows PowerShell
 cd до папки
+```
 ollama run llama3.1
+
 >>> Send a message (/? for help)
