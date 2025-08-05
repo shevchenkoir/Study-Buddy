@@ -57,15 +57,14 @@ StudyBuddy_Assistant/
 ├── 📄 requirements.txt               # Зависимости
 └── 📄 README.md                      # Документация
 
+```
 ### Файл .env:
 
 OLLAMA_MODEL=llama3:latest
 LLM_MODEL_ID=llama3
 EMBEDDING_MODEL_ID=ollama/llama3
 
-
-
 ### в  терминале Windows PowerShell
- cd "C:\Users\irina\Downloads\Telegram Desktop\StudyBuddy_Assistant\StudyBuddy_Assistant"
- ollama run llama3.1
+cd "C:\Users\irina\Downloads\Telegram Desktop\StudyBuddy_Assistant\StudyBuddy_Assistant"
+ollama run llama3.1
 >>> Send a message (/? for help)
