@@ -31,7 +31,7 @@ streamlit run gui/streamlit_app.py
 
 
 
-### стуктура проета ###
+#стуктура проета
 StudyBuddy_Assistant/
 │
 ├── gui/
