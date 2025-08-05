@@ -17,7 +17,7 @@
 pip install -r requirements.txt
 
 ```
-### 2. уставите и зарустите ollama
+### 2. Установите и зарустите ollama
 
 ```bash
 ollama run llama3
@@ -30,9 +30,7 @@ streamlit run gui/streamlit_app.py
 
 ```
 
-
-
-### стуктура проета ###
+### Структура проекта
 
 StudyBuddy_Assistant/
 │
@@ -76,7 +74,7 @@ EMBEDDING_MODEL_ID=ollama/llama3
 
 
 
-# в  терминале Windows PowerShell
+### в  терминале Windows PowerShell
  cd "C:\Users\irina\Downloads\Telegram Desktop\StudyBuddy_Assistant\StudyBuddy_Assistant"
  ollama run llama3.1
 >>> Send a message (/? for help)
