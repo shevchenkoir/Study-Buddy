@@ -17,7 +17,7 @@
 ```bash
 pip install -r requirements.txt
 
-### 2. уставите и зарустите ollama
+2. Установите и запустите Ollama
 
 ```bash
 ollama run llama3
