@@ -32,7 +32,7 @@ streamlit run gui/streamlit_app.py
 
 ### Структура проекта
 
-StudyBuddy_Assistant/
+#### StudyBuddy_Assistant/
 │
 ├── gui/
 │   └── streamlit_app.py           # Веб-интерфейс (Streamlit)
