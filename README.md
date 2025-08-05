@@ -1,4 +1,3 @@
-
 # 📘 StudyBuddy Assistant
 
 **StudyBuddy** — интеллектуальный ассистент-тьютор на базе LLM и RAG, помогающий студентам осваивать учебный материал. Он может:
@@ -10,24 +9,31 @@
 
 ---
 
-# 🚀 Бысткий старт
----
-## 1. Установите зависимости
+## 🚀 Бысткий старт
+
+### 1. Установите зависимости
 
 ```bash
 pip install -r requirements.txt
 
-## 2. Установите и запустите Ollama
+```
+### 2. уставите и зарустите ollama
 
 ```bash
 ollama run llama3
 
-## 3. запустите приложение
+```
+### 3. запустите приложение
 
 ```bash
 streamlit run gui/streamlit_app.py
 
-# стуктура проета
+```
+
+
+
+### стуктура проета ###
+
 StudyBuddy_Assistant/
 │
 ├── gui/
@@ -60,8 +66,17 @@ StudyBuddy_Assistant/
 ├── requirements.txt               # Зависимости
 └── README.md                      # Этот файл
 
+
+
 ### Файл .env:
 
 OLLAMA_MODEL=llama3:latest
 LLM_MODEL_ID=llama3
 EMBEDDING_MODEL_ID=ollama/llama3
+
+
+
+# в  терминале Windows PowerShell
+ cd "C:\Users\irina\Downloads\Telegram Desktop\StudyBuddy_Assistant\StudyBuddy_Assistant"
+ ollama run llama3.1
+>>> Send a message (/? for help)
