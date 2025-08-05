@@ -56,17 +56,16 @@ StudyBuddy_Assistant/
 ├── 📄 .env                           # Переменные окружения
 ├── 📄 requirements.txt               # Зависимости
 └── 📄 README.md                      # Документация
-
 ```
 ### Файл .env:
-
+```text
 OLLAMA_MODEL=llama3:latest
 LLM_MODEL_ID=llama3
 EMBEDDING_MODEL_ID=ollama/llama3
-
+```
 ### в  терминале Windows PowerShell
+```
 cd до папки
 ```
 ollama run llama3.1
-
 >>> Send a message (/? for help)
