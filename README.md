@@ -59,8 +59,8 @@ StudyBuddy_Assistant/
 ```
 ### Файл .env:
 ```text
-OLLAMA_MODEL=llama3:latest
-LLM_MODEL_ID=llama3
+OLLAMA_MODEL=llama3.1:latest
+LLM_MODEL_ID=llama3.1
 EMBEDDING_MODEL_ID=ollama/llama3
 ```
 ### в  терминале Windows PowerShell
