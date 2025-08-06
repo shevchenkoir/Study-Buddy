@@ -61,7 +61,7 @@ StudyBuddy_Assistant/
 ```text
 OLLAMA_MODEL=llama3.1:latest
 LLM_MODEL_ID=llama3.1
-EMBEDDING_MODEL_ID=ollama/llama3
+EMBEDDING_MODEL_ID=ollama/llama3.1
 ```
 ### в  терминале Windows PowerShell
 ```
