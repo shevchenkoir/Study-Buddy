@@ -119,13 +119,10 @@ StudyBuddy_Assistant/
 ```ini
 # Модель генерации ответов
 OLLAMA_MODEL=qwen2.5:1.5b-instruct
-```
 # Модель эмбеддингов
 OLLAMA_EMBED_MODEL=nomic-embed-text
-```
 # URL Ollama API
 OLLAMA_BASE_URL=http://localhost:11434
-```
 # Скорость TTS (слов в минуту)
 TTS_RATE=175
 ```
