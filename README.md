@@ -31,9 +31,9 @@
   .\.venv\Scripts\activate
 ```
 2. **Установите зависимости:**
-   ```bash
+```bash
    pip install -r requirements.txt
-   ```
+```
 ---
 
 ### 2️⃣ Запуск в автоматическом режиме (рекомендуется)
